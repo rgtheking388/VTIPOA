@@ -1,0 +1,33 @@
+.menu ul {
+  background: #D4E7EE;
+  overflow: hidden;
+  padding: 0;
+}
+.menu li {
+  float: left;
+}
+.menu a {
+  display: block;
+  padding: 1em;
+  border-right: 1px solid #ADC0CE;
+  background: rgba(173, 192, 206, .3);
+  color: #29838C;
+}
+.menu a:hover {background: #ADC0CE}
+.three ul {
+  padding: 0;
+  background: #E4EFD1;
+}
+.three li {
+  display: inline-block;
+}
+body{
+  background: #adc0ce;
+  font-family: Arial, Arial Black, sans-serif;
+}
+.text{
+  font-size: 30px;
+}
+.worktype{
+  font-size: 30px;
+}
